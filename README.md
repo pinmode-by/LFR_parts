@@ -2,7 +2,7 @@
 Parts for line following robot
 Детали для робота линии
 
-1.	Сенсоры
+<B>1.	Сенсоры</B>
 Датчик линии Pololu QTR-8A аналоговый
 http://www.robototehnika.ru/e-store/catalog/202/702/
 
