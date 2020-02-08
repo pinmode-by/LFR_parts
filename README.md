@@ -56,6 +56,7 @@ TSOP4838 https://aliexpress.ru/item/4000184301216.html?spm=a2g0s.9042311.0.0.264
 <B>6.	Импеллер (турбина)</B>
 
 EDF 30mm https://aliexpress.ru/item/32959947859.html?spm=a2g0s.9042311.0.0.264d33edFdWa5e
+
 ESC 20A https://aliexpress.ru/item/4000097432289.html?spm=a2g0s.9042311.0.0.264d33edJ7wdfU
 
 <B>7.	Аккумулятор LiPo</B>
