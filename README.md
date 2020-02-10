@@ -17,6 +17,7 @@ https://aliexpress.ru/wholesale?catId=0&SearchText=qre1113gr
 
 Toshiba TB6612
 https://aliexpress.ru/wholesale?catId=0&SearchText=tb6612
+
 https://www.belchip.by/product/?selected_product=34058
 
 Texas Instruments DRV8870 (Allegro A4950)
@@ -30,12 +31,15 @@ https://www.electronshik.ru/item/INFIN/TLE5206-2G
   
 Atmega 328P
 https://www.chipdip.by/product/atmega328-au
+
 https://www.belchip.by/product/?selected_product=06811
+
 Arduino nano https://aliexpress.ru/item/32664577152.html?spm=a2g0s.9042311.0.0.264d33edTRleFM
 
 <B> 4.	Моторы </B>
 
 6V 30:1 http://www.robototehnika.ru/e-store/catalog/198/1265/
+
 https://www.sumozade.com/micro-metal-gearmotor-hp-6v-1000rpm-315
 
 6V 20:1 http://www.robototehnika.ru/e-store/catalog/198/1914/
