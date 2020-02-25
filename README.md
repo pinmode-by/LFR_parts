@@ -57,7 +57,9 @@ JDY-08 https://aliexpress.ru/item/32779912122.html?spm=a2g0s.9042311.0.0.264d33e
 TSOP4838 https://aliexpress.ru/item/4000184301216.html?spm=a2g0s.9042311.0.0.264d33edPbNnZV
 
 Программатор USBasp
+
 https://easycraft.by/programmator-usbasp-2-0
+
 https://www.aliexpress.com/item/32670511994.html?spm=a2g0o.productlist.0.0.54bb3e69coEUoJ&algo_pvid=7f2c0bfe-3472-464b-a580-3cca0fef8213&algo_expid=7f2c0bfe-3472-464b-a580-3cca0fef8213-0&btsid=0b0a050b15826320428435851ef43a&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
 
 <B>6.	Импеллер (турбина)</B>
