@@ -64,7 +64,10 @@ https://www.aliexpress.com/item/32670511994.html?spm=a2g0o.productlist.0.0.54bb3
 
 <B>6.	Импеллер (турбина)</B>
 
-EDF 30mm https://aliexpress.ru/item/32959947859.html?spm=a2g0s.9042311.0.0.264d33edFdWa5e
+EDF 30mm https://www.aliexpress.com/item/32840631667.html?spm=a2g0o.productlist.0.0.4b81715azrLJrM&algo_pvid=b74c0124-bc30-484e-8a7a-29a69d73a31f&algo_expid=b74c0124-bc30-484e-8a7a-29a69d73a31f-18&btsid=0ab6d69515866155671752864e89e2&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+
+EDF 30mm https://www.banggood.com/ru/QX-Motor-30mm-6-Blades-EDF-Unit-With-QF1611-14000KV-Brushless-Motor-p-1127450.html?rmmds=search&cur_warehouse=CN
+
 
 ESC 20A https://aliexpress.ru/item/4000097432289.html?spm=a2g0s.9042311.0.0.264d33edJ7wdfU
 
