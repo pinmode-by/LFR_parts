@@ -73,5 +73,5 @@ ESC 10A https://aliexpress.ru/wholesale?catId=&SearchText=esc%2010a
 
 <B>7.	Аккумулятор LiPo</B>
 
-https://aliexpress.ru/item/4000193129564.html?spm=a2g0s.9042311.0.0.264d33edfSOfkD
+https://aliexpress.ru/wholesale?catId=&SearchText=lipo%202s%20300mah
 
