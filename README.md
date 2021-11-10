@@ -60,16 +60,16 @@ TSOP4838 https://aliexpress.ru/item/4000184301216.html?spm=a2g0s.9042311.0.0.264
 
 https://easycraft.by/programmator-usbasp-2-0
 
-https://www.aliexpress.com/item/32670511994.html?spm=a2g0o.productlist.0.0.54bb3e69coEUoJ&algo_pvid=7f2c0bfe-3472-464b-a580-3cca0fef8213&algo_expid=7f2c0bfe-3472-464b-a580-3cca0fef8213-0&btsid=0b0a050b15826320428435851ef43a&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+https://aliexpress.ru/wholesale?catId=&SearchText=usbasp
 
 <B>6.	Импеллер (турбина)</B>
 
-EDF 30mm https://www.aliexpress.com/item/32840631667.html?spm=a2g0o.productlist.0.0.4b81715azrLJrM&algo_pvid=b74c0124-bc30-484e-8a7a-29a69d73a31f&algo_expid=b74c0124-bc30-484e-8a7a-29a69d73a31f-18&btsid=0ab6d69515866155671752864e89e2&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+EDF 30mm https://aliexpress.ru/wholesale?catId=&SearchText=edf%2030mm
 
 EDF 30mm https://www.banggood.com/ru/QX-Motor-30mm-6-Blades-EDF-Unit-With-QF1611-14000KV-Brushless-Motor-p-1127450.html?rmmds=search&cur_warehouse=CN
 
 
-ESC 20A https://aliexpress.ru/item/4000097432289.html?spm=a2g0s.9042311.0.0.264d33edJ7wdfU
+ESC 10A https://aliexpress.ru/wholesale?catId=&SearchText=esc%2010a
 
 <B>7.	Аккумулятор LiPo</B>
 
