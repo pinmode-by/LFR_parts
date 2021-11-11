@@ -23,9 +23,6 @@ https://www.belchip.by/product/?selected_product=34058
 Texas Instruments DRV8870 (Allegro A4950)
 https://aliexpress.ru/wholesale?catId=0&SearchText=a4950
 
-Infineon TLE 5206
-https://www.electronshik.ru/item/INFIN/TLE5206-2G
-
 
 <B> 3.	Контроллеры</B>
   
