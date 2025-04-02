@@ -20,6 +20,10 @@ https://aliexpress.ru/wholesale?catId=0&SearchText=tb6612
 
 https://www.belchip.by/product/?selected_product=34058
 
+Texas Instruments DRV8833
+https://belchip.by/product/?selected_product=47307
+https://belchip.by/product/?selected_product=39173
+
 Texas Instruments DRV8870 (Allegro A4950)
 https://aliexpress.ru/wholesale?catId=0&SearchText=a4950
 
